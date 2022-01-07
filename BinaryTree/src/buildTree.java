@@ -43,7 +43,7 @@ public class buildTree {
 
     public TreeNode build(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd) {
         // base case
-        if (preStart > preEnd) {
+        if (preStart > preEnd || inStart > inEnd) {
             return null;
         }
         // 1. 找到数组pre[preStart..preEnd]对应的root节点

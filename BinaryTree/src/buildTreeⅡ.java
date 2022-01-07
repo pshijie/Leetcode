@@ -41,7 +41,7 @@ public class buildTreeⅡ {
 
     public TreeNode build(int[] inorder, int inStart, int inEnd, int[] postorder, int postStart, int postEnd) {
         // base case
-        if (inStart > inEnd) {
+        if (inStart > inEnd || postStart > postEnd) {
             return null;
         }
         // 1. 找到数组postorder[postStart..postEnd]对应的root节点
