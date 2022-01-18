@@ -8,6 +8,7 @@
 |  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [mergeTwoLists.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/mergeTwoLists.java) |
 | 876  | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [middleNode.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/middleNode.java) |
 | 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverseList.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/reverseList.java) |
+| 700  | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [searchBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/searchBST.java) |
 
 
 
