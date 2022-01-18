@@ -27,6 +27,7 @@
 |  92  | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [reverseBetween.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/reverseBetween.java) |
 | 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [kthSmallest.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/kthSmallest.java) |
 | 538  | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [convertBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/convertBST.java) |
+|  98  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [isValidBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isValidBST.java) |
 
 
 
