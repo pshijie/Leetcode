@@ -30,6 +30,8 @@
 | 538  | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [convertBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/convertBST.java) |
 |  98  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [isValidBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isValidBST.java) |
 | 701  | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [insertIntoBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/insertIntoBST.java) |
+| 450  | [删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | [deleteNode.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/deleteNode.java) |
+
 
 
 
