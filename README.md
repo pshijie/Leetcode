@@ -34,6 +34,7 @@
 |  96  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [numTrees.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/numTrees.java) |
 |  95  | [不同的二叉搜索树Ⅱ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [generateTrees.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/generateTrees.java) |
 | 236  | [二叉树的最近公共祖先]( https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [lowestCommonAncestor.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/lowestCommonAncestor.java) |
+| 1373 | [二叉搜索子树的最大键值和]( https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree/) | [maxSumBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/maxSumBST.java) |
 
 
 
