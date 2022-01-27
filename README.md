@@ -45,4 +45,5 @@
 |  23  | [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [mergeKLists.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/mergeKLists.java) |
 |  25  | [ K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [reverseKGroup.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/reverseKGroup.java) |
 | 1373 | [二叉搜索子树的最大键值和]( https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree/) | [maxSumBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/maxSumBST.java) |
+|  297 | [二叉树的序列化与反序列化]( https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [serializedeserialize.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/serializedeserialize.java) |
 
