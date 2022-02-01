@@ -35,6 +35,7 @@
 |  95  | [不同的二叉搜索树Ⅱ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [generateTrees.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/generateTrees.java) |
 | 236  | [二叉树的最近公共祖先]( https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [lowestCommonAncestor.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/lowestCommonAncestor.java) |
 | 341  | [扁平化嵌套列表迭代器]( https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [NestedIterator.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/NestedIterator.java) |
+| 222  | [完全二叉树的节点个数]( https://leetcode-cn.com/problems/count-complete-tree-nodes/) | [countNodes.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/countNodes.java) |
 
 
 
