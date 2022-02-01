@@ -45,6 +45,7 @@ interface NestedInteger {
 //        return this.list;
 //    }
 //}
+
 public class NestedIterator implements Iterator<Integer> {
 
     private  Iterator<Integer> it;
