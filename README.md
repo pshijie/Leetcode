@@ -37,6 +37,7 @@
 | 341  | [扁平化嵌套列表迭代器]( https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [NestedIterator.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/NestedIterator.java) |
 | 222  | [完全二叉树的节点个数]( https://leetcode-cn.com/problems/count-complete-tree-nodes/) | [countNodes.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/countNodes.java) |
 |  46  | [全排列]( https://leetcode-cn.com/problems/permutations/) | [permute.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/permute.java) |
+|  46  | [划分为k个相等的子集]( https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [canPartitionKSubsets.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/canPartitionKSubsets.java) |
 
 
 
