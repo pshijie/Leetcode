@@ -53,4 +53,5 @@
 | 1373 | [二叉搜索子树的最大键值和]( https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree/) | [maxSumBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/maxSumBST.java) |
 |  297 | [二叉树的序列化与反序列化]( https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [serializedeserialize.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/serializedeserialize.java) |
 |  51  | [N皇后]( https://leetcode-cn.com/problems/n-queens/) | [solveNQueens.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/solveNQueens.java) |
+|  37  | [解数独]( https://leetcode-cn.com/problems/sudoku-solver/) | [solveSudoku.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/solveSudoku.java) |
 
