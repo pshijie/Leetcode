@@ -39,6 +39,7 @@
 |  46  | [全排列]( https://leetcode-cn.com/problems/permutations/) | [permute.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/permute.java) |
 | 698  | [划分为k个相等的子集]( https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [canPartitionKSubsets.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/canPartitionKSubsets.java) |
 |  78  | [子集]( https://leetcode-cn.com/problems/subsets/) | [subsets.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/subsets.java) |
+|  77  | [组合]( https://leetcode-cn.com/problems/combinations/) | [combine.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/combine.java) |
 
 
 
