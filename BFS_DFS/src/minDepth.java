@@ -44,6 +44,10 @@ import java.util.Queue;
  *          step++;
  *      }
  * }
+ *
+ * tips:
+ *      1. DFS也可以找到最短距离，但是时间复杂度高，需要把二叉树中所有树叉遍历完进行对比才知道结果，而BFS相当于一次走一圈节点，可以不遍历完整棵树
+ *      2. DFS空间复杂度低，最坏情况为树的高度O(logN)；而BFS中的队列每次会存储当前层的节点总数，空间复杂度为O(N)
  */
 public class minDepth {
     class TreeNode {
