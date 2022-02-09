@@ -9,6 +9,7 @@
 | 876  | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [middleNode.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/middleNode.java) |
 | 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverseList.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/reverseList.java) |
 | 700  | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [searchBST.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/searchBST.java) |
+| 111  | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [minDepth.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/minDepth.java) |
 
 
 
