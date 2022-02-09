@@ -42,7 +42,7 @@
 |  78  | [子集]( https://leetcode-cn.com/problems/subsets/) | [subsets.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/subsets.java) |
 |  77  | [组合]( https://leetcode-cn.com/problems/combinations/) | [combine.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/combine.java) |
 |  22  | [括号生成]( https://leetcode-cn.com/problems/generate-parentheses/) | [generateParenthesis.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/generateParenthesis.java) |
-|  22  | [打开转盘锁]( https://leetcode-cn.com/problems/open-the-lock/) | [openLock.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/openLock.java) |
+| 752  | [打开转盘锁]( https://leetcode-cn.com/problems/open-the-lock/) | [openLock.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/openLock.java) |
 
 
 
