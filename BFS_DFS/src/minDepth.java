@@ -21,8 +21,11 @@ import java.util.Queue;
  *
  *      int step = 0;  // 记录扩散的步数
  *
+ *      // 每执行一次while循环相当于向下一层
  *      while(!q.isEmpty()){
  *          int size = q.size();
+ *
+ *          // 每执行一次for循环相当于将遍历当前层所有节点
  *          // 将当前队列中的所有节点向四周扩散(只扩散一步)
  *          for(int i=0; i<size; i++){
  *              Node cur = q.poll();
