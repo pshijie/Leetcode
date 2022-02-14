@@ -57,4 +57,5 @@
 |  297 | [二叉树的序列化与反序列化]( https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [serializedeserialize.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/serializedeserialize.java) |
 |  51  | [N皇后]( https://leetcode-cn.com/problems/n-queens/) | [solveNQueens.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/solveNQueens.java) |
 |  37  | [解数独]( https://leetcode-cn.com/problems/sudoku-solver/) | [solveSudoku.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/solveSudoku.java) |
+| 773  | [滑动谜题]( https://leetcode-cn.com/problems/sliding-puzzle/) | [slidingPuzzle.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/slidingPuzzle.java) |
 
