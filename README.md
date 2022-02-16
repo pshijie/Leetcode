@@ -45,6 +45,7 @@
 |  22  | [括号生成]( https://leetcode-cn.com/problems/generate-parentheses/) | [generateParenthesis.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/generateParenthesis.java) |
 | 752  | [打开转盘锁]( https://leetcode-cn.com/problems/open-the-lock/) | [openLock.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/openLock.java) |
 | 322  | [零钱兑换]( https://leetcode-cn.com/problems/coin-change/) | [coinChange.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/coinChange.java) |
+| 300  | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [lengthOfLIS.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/lengthOfLIS.java) |
 
 
 
