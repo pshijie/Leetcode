@@ -47,6 +47,7 @@
 | 322  | [零钱兑换]( https://leetcode-cn.com/problems/coin-change/) | [coinChange.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/coinChange.java) |
 | 300  | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [lengthOfLIS.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/lengthOfLIS.java) |
 | 931  | [下降路径最小和]( https://leetcode-cn.com/problems/minimum-falling-path-sum/) | [minFallingPathSum_nomemo.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/minFallingPathSum.java) |
+| 494  | [目标和]( https://leetcode-cn.com/problems/target-sum/) | [findTargetSumWays.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findTargetSumWays.java) |
 
 
 
