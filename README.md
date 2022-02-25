@@ -52,6 +52,7 @@
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence/) | [longestCommonSubsequence.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/longestCommonSubsequence.java) |
 | 583  | [两个字符串的删除操作]( https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [delminDistance.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/delminDistance.java) |
 | 712  | [两个字符串的最小ASCII删除和]( https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [minimumDeleteSum.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/minimumDeleteSum.java) |
+| 516  | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [longestPalindromeSubseq.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/longestPalindromeSubseq.java) |
 
 
 
