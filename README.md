@@ -55,6 +55,7 @@
 | 516  | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [longestPalindromeSubseq.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/longestPalindromeSubseq.java) |
 | 416  | [分割等和子集]( https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [canPartition.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/canPartition.java) |
 | 518  | [零钱兑换II]( https://leetcode-cn.com/problems/coin-change-2/) | [change.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/change.java) |
+|  64  | [最小路径和]( https://leetcode-cn.com/problems/minimum-path-sum/) | [minPathSum.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/minPathSum.java) |
 
 
 
