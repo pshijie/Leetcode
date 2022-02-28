@@ -73,4 +73,5 @@
 | 773  | [滑动谜题]( https://leetcode-cn.com/problems/sliding-puzzle/) | [slidingPuzzle.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/slidingPuzzle.java) |
 |  72  | [编辑距离]( https://leetcode-cn.com/problems/edit-distance/) | [minDistance.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/minDistance.java) |
 | 174  | [地下城游戏]( https://leetcode-cn.com/problems/dungeon-game/) | [calculateMinimumHP.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/calculateMinimumHP.java) |
+| 514  | [自由之路]( https://leetcode-cn.com/problems/freedom-trail/) | [findRotateSteps.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findRotateSteps.java) |
 
