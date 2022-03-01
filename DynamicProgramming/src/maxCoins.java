@@ -10,7 +10,7 @@ import java.util.List;
 // https://leetcode-cn.com/problems/burst-balloons/
 // 有n个气球，编号为0到n - 1，每个气球上都标有一个数字，这些数字存在数组nums中
 // 现在要求戳破所有的气球。戳破第i个气球，你可以获得nums[i - 1] * nums[i] * nums[i + 1]枚硬币,求所能获得硬币的最大数量
-// 可以视num[-1]=num[n]=1
+// 对于nums数组，可视num[-1]=num[n]=1
 
 public class maxCoins {
     // 方法1:回溯（超时）
