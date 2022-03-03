@@ -57,6 +57,7 @@
 | 518  | [零钱兑换II]( https://leetcode-cn.com/problems/coin-change-2/) | [change.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/change.java) |
 |  64  | [最小路径和]( https://leetcode-cn.com/problems/minimum-path-sum/) | [minPathSum.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/minPathSum.java) |
 | 787  | [K站中转内最便宜的航班]( https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | [findCheapestPrice.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findCheapestPrice.java) |
+| 877  | [石子游戏]( https://leetcode-cn.com/problems/stone-game/) | [stoneGame.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/stoneGame.java) |
 
 
 
