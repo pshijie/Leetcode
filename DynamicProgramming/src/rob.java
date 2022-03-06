@@ -58,6 +58,7 @@ public class rob {
         dp[1] = nums[0];
 
         for (int i = 2; i < n + 1; i++) {
+            // 到第i家有两种情况：不抢第i-1家和抢第i-2家
             dp[i] = Math.max(dp[i - 1], dp[i - 2] + nums[i - 1]);
         }
 
