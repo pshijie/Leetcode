@@ -31,7 +31,7 @@ public class maxProfitII {
     // 套用框架,K=正无穷,所以状态转移方程为:
     //     dp[i][k][0]=max(dp[i-1][k][0],dp[i-1][k][1]+prices[i])
     //     dp[i][k][1]=max(dp[i-1][k][1],dp[i-1][k-1][0]-prices[i])
-    //                =max(dp[i-1][k][1],dp[i-1][k-1][0]-prices[i]) // k为无穷,所以减去1后还是无穷
+    //                =max(dp[i-1][k][1],dp[i-1][k][0]-prices[i]) // k为无穷,所以减去1后还是无穷，相当于还是k
     //     因为k值始终不变,所以和k值无关,所以可以将三维dp改为二维dp:
     //     dp[i][0]=max(dp[i-1][0],dp[i-1][1]+prices[i])
     //     dp[i][1]=max(dp[i-1][1],dp[i-1][0]-prices[i])
