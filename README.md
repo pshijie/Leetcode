@@ -89,4 +89,5 @@
 |  10  | [正则表达式匹配]( https://leetcode-cn.com/problems/regular-expression-matching/) | [isMatch.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/isMatch.java) |
 | 123  | [买卖股票的最佳时机III]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [isMatch.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxProfitIII.java) |
 | 188  | [买卖股票的最佳时机IV]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [isMatch.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxProfitIV.java) |
+| 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [minInsertions.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/minInsertions.java) |
 
