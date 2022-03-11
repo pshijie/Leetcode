@@ -68,6 +68,8 @@
 | 714  | [买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [maxProfitWithFee.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxProfitWithFee.java) |
 | 435  | [无重叠区间]( https://leetcode-cn.com/problems/non-overlapping-intervals/) | [eraseOverlapIntervals.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/eraseOverlapIntervals.java) |
 | 452  | [用最少数量的箭引爆气球]( https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [findMinArrowShots.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/findMinArrowShots.java) |
+|  3   | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [lengthOfLongestSubstring.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/lengthOfLongestSubstring.java) |
+| 1024 | [视频拼接]( https://leetcode-cn.com/problems/video-stitching/) | [videoStitching.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/videoStitching.java) |
 
 
 
@@ -92,4 +94,5 @@
 | 123  | [买卖股票的最佳时机III]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [isMatch.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxProfitIII.java) |
 | 188  | [买卖股票的最佳时机IV]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [isMatch.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxProfitIV.java) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [minInsertions.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/minInsertions.java) |
+|  76  | [最小覆盖子串]( https://leetcode-cn.com/problems/minimum-window-substring/) | [minWindow.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/minWindow.java) |
 
