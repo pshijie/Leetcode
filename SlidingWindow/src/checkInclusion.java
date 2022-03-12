@@ -32,7 +32,7 @@ public class checkInclusion {
             // 判断窗口是否要收缩
             // 当窗口的长度(之所以是right-left不是right-left+1是因为在上面right已经加1，实际的窗口还是[left,right-1])
             // 为s1的长度时，就要进行收缩(假设s1="ab",s2="cbcae"，即使能找到"bca"中包含s1的所有字母，但是不是子串，所以不符合条件)
-            while (right - left >= s1.length()) {
+            while (right - left == s1.length()) {
                 if (vaild == need.size()) {
                     return true;
                 }

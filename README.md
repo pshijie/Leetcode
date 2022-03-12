@@ -73,6 +73,7 @@
 |  55  | [跳跃游戏]( https://leetcode-cn.com/problems/jump-game/) | [canJump.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/canJump.java) |
 |  45  | [跳跃游戏II]( https://leetcode-cn.com/problems/jump-game-ii/) | [jump.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/jump.java) |
 | 135  | [加油站]( https://leetcode-cn.com/problems/gas-station/) | [canCompleteCircuit.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/canCompleteCircuit.java) |
+| 567  | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string/) | [checkInclusion.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/checkInclusion.java) |
 
 
 
