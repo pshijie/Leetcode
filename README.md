@@ -71,6 +71,7 @@
 |  3   | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [lengthOfLongestSubstring.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/lengthOfLongestSubstring.java) |
 | 1024 | [视频拼接]( https://leetcode-cn.com/problems/video-stitching/) | [videoStitching.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/videoStitching.java) |
 |  55  | [跳跃游戏]( https://leetcode-cn.com/problems/jump-game/) | [canJump.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/canJump.java) |
+|  45  | [跳跃游戏II]( https://leetcode-cn.com/problems/jump-game-ii/) | [jump.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/jump.java) |
 
 
 
