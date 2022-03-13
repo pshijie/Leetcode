@@ -11,7 +11,7 @@ public class strStr_KMP {
     // 方法1：暴力，时间复杂度为O(mn)，空间复杂度为O(1)
     // 缺点：假如txt="aaacaaab",pat="aaab"
     // 第一轮：    aaab      aaacaaab
-    //               i         j
+    //               i      j
     //      发现不匹配时，i指针和j指针都需要重新移动
     //            aaab      aaacaaab
     //            i          j
