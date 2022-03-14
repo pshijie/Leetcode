@@ -83,6 +83,7 @@
 | 560  | [和为K的子数组-矩阵不可变]( https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [subarraySum.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/subarraySum.java) |
 | 200  | [岛屿数量]( https://leetcode-cn.com/problems/number-of-islands/) | [numIslands.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/numIslands.java) |
 | 1254 | [统计封闭岛屿的数目]( https://leetcode-cn.com/problems/number-of-closed-islands/) | [closedIsland.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/closedIsland.java) |
+| 1020 | [飞地的数量]( https://leetcode-cn.com/problems/number-of-enclaves/) | [numEnclaves.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/numEnclaves.java) |
 
 
 
