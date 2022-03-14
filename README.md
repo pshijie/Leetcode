@@ -84,6 +84,7 @@
 | 200  | [岛屿数量]( https://leetcode-cn.com/problems/number-of-islands/) | [numIslands.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/numIslands.java) |
 | 1254 | [统计封闭岛屿的数目]( https://leetcode-cn.com/problems/number-of-closed-islands/) | [closedIsland.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/closedIsland.java) |
 | 1020 | [飞地的数量]( https://leetcode-cn.com/problems/number-of-enclaves/) | [numEnclaves.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/numEnclaves.java) |
+| 695  | [岛屿的最大面积]( https://leetcode-cn.com/problems/max-area-of-island/) | [maxAreaOfIsland.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/maxAreaOfIsland.java) |
 
 
 
