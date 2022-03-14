@@ -14,6 +14,7 @@
 |  53  | [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | [maxSubArray.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxSubArray.java) |
 | 121  | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [maxProfit.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxProfit.java) |
 |  28  | [实现strStr](https://leetcode-cn.com/problems/implement-strstr/) | [strStr_KMP.java](https://github.com/pshijie/Leetcode/blob/main/other/src/strStr_KMP.java) |
+| 303  | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [NumArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/NumArray.java) |
 
 
 
