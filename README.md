@@ -86,6 +86,7 @@
 | 1020 | [飞地的数量]( https://leetcode-cn.com/problems/number-of-enclaves/) | [numEnclaves.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/numEnclaves.java) |
 | 695  | [岛屿的最大面积]( https://leetcode-cn.com/problems/max-area-of-island/) | [maxAreaOfIsland.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/maxAreaOfIsland.java) |
 | 1905 | [统计子岛屿]( https://leetcode-cn.com/problems/count-sub-islands/) | [countSubIslands.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/countSubIslands.java) |
+|  33  | [搜索旋转排序数组]( https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [search.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/search.java) |
 
 
 
