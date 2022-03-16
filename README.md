@@ -17,6 +17,7 @@
 | 303  | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [NumArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/NumArray.java) |
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [removeDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/removeDuplicates.java) |
 |  83  | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [deleteDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/deleteDuplicates.java) |
+| 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [moveZeroes.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/moveZeroes.java) |
 
 
 
