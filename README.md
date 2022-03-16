@@ -15,6 +15,7 @@
 | 121  | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [maxProfit.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maxProfit.java) |
 |  28  | [实现strStr](https://leetcode-cn.com/problems/implement-strstr/) | [strStr_KMP.java](https://github.com/pshijie/Leetcode/blob/main/other/src/strStr_KMP.java) |
 | 303  | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [NumArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/NumArray.java) |
+|  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [removeDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/removeDuplicates.java) |
 
 
 
