@@ -18,6 +18,7 @@
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [removeDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/removeDuplicates.java) |
 |  83  | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [deleteDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/deleteDuplicates.java) |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [moveZeroes.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/moveZeroes.java) |
+|  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [isValid.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/isValid.java) |
 
 
 
