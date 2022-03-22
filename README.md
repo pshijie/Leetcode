@@ -104,6 +104,7 @@
 | 912  | [排序数组]( https://leetcode-cn.com/problems/sort-an-array/) | [sortArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortArray.java) |
 | 129  | [求根节点到叶节点数字之和]( https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [sumNumbers.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/sumNumbers.java) |
 | 1288 | [删除被覆盖区间]( https://leetcode-cn.com/problems/remove-covered-intervals/) | [removeCoveredIntervals.java](https://github.com/pshijie/Leetcode/blob/main/IntervalCoverage/src/removeCoveredIntervals.java) |
+|  56  | [合并区间]( https://leetcode-cn.com/problems/merge-intervals/) | [mergeInterval.java](https://github.com/pshijie/Leetcode/blob/main/IntervalCoverage/src/mergeInterval.java) |
 
 
 
