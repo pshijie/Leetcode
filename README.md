@@ -111,6 +111,7 @@
 | 986  | [区间列表的交集]( https://leetcode-cn.com/problems/interval-list-intersections/) | [intervalIntersection.java](https://github.com/pshijie/Leetcode/blob/main/IntervalCoverage/src/intervalIntersection.java) |
 | 148  | [排序链表]( https://leetcode-cn.com/problems/sort-list/) | [sortList.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortList.java) |
 | 221  | [最大正方形]( https://leetcode-cn.com/problems/maximal-square/) | [maximalSquare.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maximalSquare.java) |
+|  82  | [删除排序链表中的重复元素II]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [deleteDuplicatesII.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/deleteDuplicatesII.java) |
 
 
 
