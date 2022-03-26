@@ -24,6 +24,7 @@
 |  69  | [x的平方根 ](https://leetcode-cn.com/problems/sqrtx/) | [mySqrt.java](https://github.com/pshijie/Leetcode/blob/main/other/src/mySqrt.java) |
 | 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [isSymmetric.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isSymmetric.java) |
 | 112  | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [hasPathSum.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/hasPathSum.java) |
+|  94  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [inorderTraversal.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/inorderTraversal.java) |
 
 
 
