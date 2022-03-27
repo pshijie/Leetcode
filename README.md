@@ -116,6 +116,7 @@
 | 221  | [最大正方形]( https://leetcode-cn.com/problems/maximal-square/) | [maximalSquare.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/maximalSquare.java) |
 |  82  | [删除排序链表中的重复元素II]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [deleteDuplicatesII.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/deleteDuplicatesII.java) |
 | 113  | [路径总和II]( https://leetcode-cn.com/problems/path-sum-ii/) | [pathSum.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/pathSum.java) |
+| 162  | [寻找峰值]( https://leetcode-cn.com/problems/find-peak-element/) | [findPeakElement.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findPeakElement.java) |
 
 
 
