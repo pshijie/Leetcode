@@ -26,6 +26,7 @@
 | 112  | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [hasPathSum.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/hasPathSum.java) |
 |  94  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [inorderTraversal.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/inorderTraversal.java) |
 | 232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [MyQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyQueue.java) |
+| 225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [MyStack.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyStack.java) |
 
 
 
