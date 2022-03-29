@@ -120,6 +120,7 @@
 |   2  | [两数相加]( https://leetcode-cn.com/problems/find-peak-element/) | [addTwoNumbers.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/addTwoNumbers.java) |
 |  90  | [子集II]( https://leetcode-cn.com/problems/subsets-ii/) | [subsetsWithDup.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/subsetsWithDup.java) |
 |  40  | [组合总和II]( https://leetcode-cn.com/problems/combination-sum-ii/) | [combinationSum2.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/combinationSum2.java) |
+|  47  | [全排列II]( https://leetcode-cn.com/problems/permutations-ii/) | [permuteUnique.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/permuteUnique.java) |
 
 
 
