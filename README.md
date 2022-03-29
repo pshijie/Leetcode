@@ -121,6 +121,7 @@
 |  90  | [子集II]( https://leetcode-cn.com/problems/subsets-ii/) | [subsetsWithDup.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/subsetsWithDup.java) |
 |  40  | [组合总和II]( https://leetcode-cn.com/problems/combination-sum-ii/) | [combinationSum2.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/combinationSum2.java) |
 |  47  | [全排列II]( https://leetcode-cn.com/problems/permutations-ii/) | [permuteUnique.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/permuteUnique.java) |
+|  39  | [组合总和]( https://leetcode-cn.com/problems/combination-sum/) | [combinationSum.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/combinationSum.java) |
 
 
 
