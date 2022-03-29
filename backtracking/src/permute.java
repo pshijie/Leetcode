@@ -64,7 +64,7 @@ public class permute {
             res.add(new LinkedList(track));
             return;
         }
-
+        // 这里不以i下标作为函数的参数是因为不需要下标i控制不重复出现子集
         for (int i = 0; i < nums.length; i++) {
             // 路径中已经含有的数字不会加入到选择列表中
             if (track.contains(nums[i])){
