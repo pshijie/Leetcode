@@ -23,13 +23,13 @@ public class subsets {
         return res;
     }
 
-    public void backtrce(int i, int[] nums, List<List<Integer>> res, ArrayList<Integer> temp) {
+    public void backtrce(int i, int[] nums, List<List<Integer>> res, List<Integer> temp) {
         // 不需要判断条件，因为子集都需要记录
         res.add(new ArrayList<>(temp));
         // 起始点为i，不是为0，如果为0子集会重复
         for (int j = i; j < nums.length; j++) {
             // 选择nums[j]
-            temp.add(nums[j]);
+            temp.add(nums[j]);  // 通过下标j控制树枝的遍历，避免出现重复的情况
             backtrce(j + 1, nums, res, temp);
             // 撤销选择
             temp.remove(temp.size() - 1);
