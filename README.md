@@ -27,6 +27,7 @@
 |  94  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [inorderTraversal.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/inorderTraversal.java) |
 | 232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [MyQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyQueue.java) |
 | 225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [MyStack.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyStack.java) |
+| 155  | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [MinStack.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MinStack.java) |
 
 
 
