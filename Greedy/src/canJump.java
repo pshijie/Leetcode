@@ -11,16 +11,16 @@ public class canJump {
     public boolean canJump(int[] nums) {
         int n = nums.length;
         int farthest = 0;  // 此前能跳到的最远距离
-        // 注意:这里是n-1是因为题目判断的是能否到达最后一个下标
-        for (int i = 0; i < n - 1; i++) {
-            // 计算当前能跳到的最远距离
-            farthest = Math.max(farthest, i + nums[i]);
-            // 说明当前nums[i]==0,即一直待在原地原地，并且
-            if (farthest == i) {
+        for (int i = 0; i < n ; i++) {
+            // 如果当前能跳到的最大距离小于当前位置
+            if (farthest < i) {
                 return false;
             }
+            // 计算当前能跳到的最远距离
+            farthest = Math.max(farthest, i + nums[i]);
+
         }
 
-        return farthest >= n - 1;
+        return true;
     }
 }
