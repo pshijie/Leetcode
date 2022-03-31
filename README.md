@@ -126,6 +126,7 @@
 |  39  | [组合总和]( https://leetcode-cn.com/problems/combination-sum/) | [combinationSum.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/combinationSum.java) |
 | 958  | [ 二叉树的完全性检验]( https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/) | [isCompleteTree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isCompleteTree.java) |
 | 394  | [ 字符串解码]( https://leetcode-cn.com/problems/decode-string/) | [decodeString.java](https://github.com/pshijie/Leetcode/blob/main/decodeString/src/decodeString.java) |
+| 240  | [搜索二维矩阵 II]( https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [searchMatrix.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/searchMatrix.java) |
 
 
 
