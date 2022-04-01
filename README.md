@@ -28,6 +28,7 @@
 | 232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [MyQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyQueue.java) |
 | 225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [MyStack.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyStack.java) |
 | 155  | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [MinStack.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MinStack.java) |
+| 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [diameterOfBinaryTree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/diameterOfBinaryTree.java) |
 
 
 
