@@ -155,6 +155,7 @@
 |  76  | [最小覆盖子串]( https://leetcode-cn.com/problems/minimum-window-substring/) | [minWindow.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/minWindow.java) |
 |  42  | [接雨水]( https://leetcode-cn.com/problems/trapping-rain-water/) | [trap.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/trap.java) |
 |  32  | [最长有效括号]( https://leetcode-cn.com/problems/longest-valid-parentheses/) | [longestValidParentheses.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/longestValidParentheses.java) |
+| 239  | [滑动窗口最大值]( https://leetcode-cn.com/problems/sliding-window-maximum/) | [maxSlidingWindow.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/maxSlidingWindow.java) |
 
 
 ## 补充题
