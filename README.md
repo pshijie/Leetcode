@@ -130,6 +130,7 @@
 | 394  | [字符串解码]( https://leetcode-cn.com/problems/decode-string/) | [decodeString.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/decodeString.java) |
 | 240  | [搜索二维矩阵 II]( https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [searchMatrix.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/searchMatrix.java) |
 |  79  | [单词搜索]( https://leetcode-cn.com/problems/word-search/) | [exist.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/exist.java) |
+| 402  | [移掉K位数字]( https://leetcode-cn.com/problems/remove-k-digits/) | [removeKdigits.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/removeKdigits.java) |
 
 
 
