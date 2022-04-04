@@ -136,6 +136,7 @@
 | 139  | [单词拆分]( https://leetcode-cn.com/problems/word-break/) | [wordBreak.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/wordBreak.java) |
 | 128  | [最长连续序列]( https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [longestConsecutive.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/longestConsecutive.java) |
 |  62  | [不同路径]( https://leetcode-cn.com/problems/unique-paths/) | [uniquePaths.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/uniquePaths.java) |
+| 714  | [最长重复子数组]( https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [findLength.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findLength.java) |
 
 
 
