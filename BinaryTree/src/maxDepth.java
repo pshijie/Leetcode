@@ -47,7 +47,7 @@ public class maxDepth {
     }
 
     // 方法2:BFS
-    public int maxDepth_bfs(TreeNode root) {
+    public int c_bfs(TreeNode root) {
         if (root == null) {
             return 0;
         }
