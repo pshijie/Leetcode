@@ -173,3 +173,4 @@
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   1  | [排序奇升偶降链表]( https://mp.weixin.qq.com/s/0WVa2wIAeG0nYnVndZiEXQ) | [sortOddEvenList.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/sortOddEvenList.java) |
 |   2  | [圆环回原点问题]( https://mp.weixin.qq.com/s/NZPaFsFrTybO3K3s7p7EVg) | [backToOrigin.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/backToOrigin.java) |
+|   3  | [检测循环依赖]( https://mp.weixin.qq.com/s/pCRscwKqQdYYN7M1Sia7xA) | [haveCircularDependency.java](https://github.com/pshijie/Leetcode/blob/main/Graph/src/haveCircularDependency.java) |
