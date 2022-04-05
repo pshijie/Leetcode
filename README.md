@@ -138,6 +138,7 @@
 |  62  | [不同路径]( https://leetcode-cn.com/problems/unique-paths/) | [uniquePaths.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/uniquePaths.java) |
 | 714  | [最长重复子数组]( https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [findLength.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findLength.java) |
 |  43  | [字符串相乘]( https://leetcode-cn.com/problems/multiply-strings/) | [multiply.java](https://github.com/pshijie/Leetcode/blob/main/other/src/multiply.java) |
+|  24  | [两两交换链表中的节点]( https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [swapPairs.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/swapPairs.java) |
 
 
 
