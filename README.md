@@ -31,6 +31,7 @@
 | 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [diameterOfBinaryTree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/diameterOfBinaryTree.java) |
 |剑指offer-22| [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [getKthFromEnd.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/getKthFromEnd.java) |
 | 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [maxDepth.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/maxDepth.java) |
+|剑指offer-09| [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [CQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/CQueue.java) |
 
 
 
