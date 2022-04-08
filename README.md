@@ -143,6 +143,7 @@
 |  43  | [字符串相乘]( https://leetcode-cn.com/problems/multiply-strings/) | [multiply.java](https://github.com/pshijie/Leetcode/blob/main/other/src/multiply.java) |
 |  24  | [两两交换链表中的节点]( https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [swapPairs.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/swapPairs.java) |
 | 739  | [每日温度]( https://leetcode-cn.com/problems/daily-temperatures/) | [dailyTemperatures.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/dailyTemperatures.java) |
+| 179  | [最大数]( https://leetcode-cn.com/problems/largest-number/) | [largestNumber.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/largestNumber.java) |
 
 
 
