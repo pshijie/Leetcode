@@ -175,6 +175,7 @@
 |  32  | [最长有效括号]( https://leetcode-cn.com/problems/longest-valid-parentheses/) | [longestValidParentheses.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/longestValidParentheses.java) |
 | 239  | [滑动窗口最大值]( https://leetcode-cn.com/problems/sliding-window-maximum/) | [maxSlidingWindow.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/maxSlidingWindow.java) |
 | 135  | [分发糖果]( https://leetcode-cn.com/problems/candy/) | [candy.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/candy.java) |
+| 224  | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator/) | [calculate.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/calculate.java) |
 
 
 ## 补充题
