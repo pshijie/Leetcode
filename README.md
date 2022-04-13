@@ -34,6 +34,7 @@
 |剑指offer-09| [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [CQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/CQueue.java) |
 | 704  | [ 二分查找](https://leetcode-cn.com/problems/binary-search/) | [binarysearch.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/binarysearch.java) |
 | 110  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [isBalanced.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isBalanced.java) |
+|  14  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [longestCommonPrefix.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/longestCommonPrefix.java) |
 
 
 
