@@ -177,6 +177,7 @@
 | 239  | [滑动窗口最大值]( https://leetcode-cn.com/problems/sliding-window-maximum/) | [maxSlidingWindow.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/maxSlidingWindow.java) |
 | 135  | [分发糖果]( https://leetcode-cn.com/problems/candy/) | [candy.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/candy.java) |
 | 224  | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator/) | [calculate.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/calculate.java) |
+| 862  | [和至少为K的最短子数组]( https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/) | [shortestSubarray.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/shortestSubarray.java) |
 
 
 ## 补充题
