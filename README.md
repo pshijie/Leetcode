@@ -35,6 +35,7 @@
 | 704  | [ 二分查找](https://leetcode-cn.com/problems/binary-search/) | [binarysearch.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/binarysearch.java) |
 | 110  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [isBalanced.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isBalanced.java) |
 |  14  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [longestCommonPrefix.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/longestCommonPrefix.java) |
+|剑指offer-21| [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [exchange.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/exchange.java) |
 
 
 
