@@ -149,6 +149,7 @@
 |剑指offer-36| [二叉搜索树与双向链表]( https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [treeToDoublyList.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/treeToDoublyList.java) |
 |  16  | [最接近的三数之和]( https://leetcode-cn.com/problems/3sum-closest/) | [threeSumClosest.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/threeSumClosest.java) |
 |  34  | [在排序数组中查找元素的第一个和最后一个位置]( https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [searchRange.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/searchRange.java) |
+| 670  | [最大交换]( https://leetcode-cn.com/problems/maximum-swap/) | [maximumSwap.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/maximumSwap.java) |
 
 
 
