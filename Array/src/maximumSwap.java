@@ -10,7 +10,7 @@
 public class maximumSwap {
     // 从左往右遍历每个数字，找到比当前数字大且最靠右的数字交换
     // 如果没有找到比当前数字大的数就遍历下一个
-    public static int maximumSwap(int num) {
+    public int maximumSwap(int num) {
         // 将数字转换为数组方便进行交换操作
         char[] arrNum = String.valueOf(num).toCharArray();
         for (int i = 0; i < arrNum.length - 1; i++) {
@@ -29,14 +29,10 @@ public class maximumSwap {
         return num;
     }
 
-    public static void swap(char[] arrNum, int i, int j) {
+    public void swap(char[] arrNum, int i, int j) {
         char temp = arrNum[i];
         arrNum[i] = arrNum[j];
         arrNum[j] = temp;
     }
 
-    public static void main(String[] args) {
-        int i = maximumSwap(2828);
-        System.out.println(i);
-    }
 }
