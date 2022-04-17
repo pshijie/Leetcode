@@ -153,6 +153,7 @@
 |  34  | [在排序数组中查找元素的第一个和最后一个位置]( https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [searchRange.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/searchRange.java) |
 | 670  | [最大交换]( https://leetcode-cn.com/problems/maximum-swap/) | [maximumSwap.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/maximumSwap.java) |
 | 912  | [排序数组之快排]( https://leetcode-cn.com/problems/sort-an-array/) | [sortArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortArray.java) |
+|  61  | [旋转链表]( https://leetcode-cn.com/problems/rotate-list/) | [rotateRight.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/rotateRight.java) |
 
 
 
