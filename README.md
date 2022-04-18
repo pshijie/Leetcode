@@ -155,6 +155,7 @@
 | 912  | [排序数组之快排]( https://leetcode-cn.com/problems/sort-an-array/) | [sortArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortArray.java) |
 |  61  | [旋转链表]( https://leetcode-cn.com/problems/rotate-list/) | [rotateRight.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/rotateRight.java) |
 | 207  | [课程表]( https://leetcode-cn.com/problems/course-schedule/) | [canFinish.java](https://github.com/pshijie/Leetcode/blob/main/Graph/src/canFinish.java) |
+| 556  | [下一个更大元素III]( https://leetcode-cn.com/problems/next-greater-element-iii/) | [nextGreaterElement.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/nextGreaterElement.java) |
 
 
 
