@@ -37,7 +37,8 @@ public class permuteUnique {
             if (used[i]) {
                 continue;
             }
-            //
+            // !user[i-1]表示第i-1个节点已经遍历完毕并且被撤销选择
+            // 如果没有被撤销选择说明num[i]是在num[i-1]的子树上，不是在同一层
             if (i > 0 && nums[i] == nums[i - 1] && !used[i - 1]) {
                 continue;
             }
