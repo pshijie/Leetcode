@@ -189,6 +189,7 @@
 | 862  | [和至少为K的最短子数组]( https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/) | [shortestSubarray.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/shortestSubarray.java) |
 | 460  | [LFU缓存]( https://leetcode-cn.com/problems/lfu-cache/) | [LFUCache.java](https://github.com/pshijie/Leetcode/blob/main/other/src/LFUCache.java) |
 |  51  | [数组中的逆序对]( https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [reversePairs.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/reversePairs.java) |
+| 295  | [数据流的中位数]( https://leetcode-cn.com/problems/find-median-from-data-stream/) | [MedianFinder.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MedianFinder.java) |
 
 
 ## 补充题
