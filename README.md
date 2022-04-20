@@ -157,6 +157,7 @@
 |  61  | [旋转链表]( https://leetcode-cn.com/problems/rotate-list/) | [rotateRight.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/rotateRight.java) |
 | 207  | [课程表]( https://leetcode-cn.com/problems/course-schedule/) | [canFinish.java](https://github.com/pshijie/Leetcode/blob/main/Graph/src/canFinish.java) |
 | 556  | [下一个更大元素III]( https://leetcode-cn.com/problems/next-greater-element-iii/) | [nextGreaterElement.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/nextGreaterElement.java) |
+| 153  | [寻找旋转排序数组中的最小值]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [findMin.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findMin.java) |
 
 
 
