@@ -39,6 +39,7 @@
 |剑指offer-62| [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [lastRemaining.java](https://github.com/pshijie/Leetcode/blob/main/other/src/lastRemaining.java) |
 |剑指offer-27| [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [mirrorTree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/mirrorTree.java) |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [removeDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/removeDuplicates.java) |
+|剑指offer-54| [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [kthLargest.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/kthLargest.java) |
 
 
 
