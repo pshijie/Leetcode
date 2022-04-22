@@ -161,6 +161,7 @@
 | 153  | [寻找旋转排序数组中的最小值]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [findMin.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findMin.java) |
 |  75  | [颜色分类]( https://leetcode-cn.com/problems/sort-colors/) | [sortColors.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortColors.java) |
 |  71  | [简化路径]( https://leetcode-cn.com/problems/simplify-path/) | [simplifyPath.java](https://github.com/pshijie/Leetcode/blob/main/String/src/simplifyPath.java) |
+| 673  | [最长递增子序列的个数]( https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [findNumberOfLIS.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findNumberOfLIS.java) |
 
 
 
