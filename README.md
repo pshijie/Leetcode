@@ -40,6 +40,7 @@
 |剑指offer-27| [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [mirrorTree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/mirrorTree.java) |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [removeDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/removeDuplicates.java) |
 |剑指offer-54| [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [kthLargest.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/kthLargest.java) |
+| 572  | [另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [isSubtree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isSubtree.java) |
 
 
 
