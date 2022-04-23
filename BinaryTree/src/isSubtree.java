@@ -36,10 +36,11 @@ public class isSubtree {
         if (root == null) {
             return false;
         }
-
-        // 依次判断root为根节点的树、root.left为根节点的树以及root.right为根节点的树
-        // 其中如果判断的是以root为根节点的树则直接使用isSameTree
-        return isSameTree(root, subRoot) || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+        if (isSameTree(root, subRoot)){
+            return true;
+        }
+        // 如果以当前root为根节点的树和子树不匹配,则依次判断root.left为根节点的树以及root.right为根节点的树
+        return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 
     // 判断两颗树是否相等(先序遍历)
