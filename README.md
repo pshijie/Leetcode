@@ -42,6 +42,7 @@
 |剑指offer-54| [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [kthLargest.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/kthLargest.java) |
 | 572  | [另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [isSubtree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isSubtree.java) |
 | 剑指Offer-61| [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [isStraight.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/isStraight.java) |
+| 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [singleNumber.java](https://github.com/pshijie/Leetcode/blob/main/other/src/singleNumber.java) |
 
 
 
