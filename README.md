@@ -166,6 +166,7 @@
 |  71  | [简化路径]( https://leetcode-cn.com/problems/simplify-path/) | [simplifyPath.java](https://github.com/pshijie/Leetcode/blob/main/String/src/simplifyPath.java) |
 | 673  | [最长递增子序列的个数]( https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [findNumberOfLIS.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findNumberOfLIS.java) |
 | 347  | [前K个高频元素]( https://leetcode-cn.com/problems/top-k-frequent-elements/) | [topKFrequent.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/topKFrequent.java) |
+| 443  | [压缩字符串]( https://leetcode-cn.com/problems/string-compression/) | [compress.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/compress.java) |
 
 
 
