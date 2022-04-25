@@ -7,7 +7,7 @@
 // https://leetcode-cn.com/problems/string-compression/solution/
 
 public class compress {
-    // 双指针
+    // 双指针(原地存储，不使用额外数组空间)
     public int compress(char[] chars) {
         int n = chars.length;
         // i用于记录当前字符的位置，j为存储新字符的位置
