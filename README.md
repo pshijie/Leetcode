@@ -170,6 +170,7 @@
 | 279  | [完全平方数]( https://leetcode-cn.com/problems/perfect-squares/) | [numSquares.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/numSquares.java) |
 | 763  | [划分字母区间]( https://leetcode-cn.com/problems/partition-labels/) | [partitionLabels.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/partitionLabels.java) |
 | 380  | [O(1)时间插入、删除和获取随机元素]( https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [RandomizedSet.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/RandomizedSet.java) |
+| 1004 | [最大连续1的个数III]( https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [longestOnes.java](https://github.com/pshijie/Leetcode/blob/main/SlidingWindow/src/longestOnes.java) |
 
 
 
