@@ -32,6 +32,9 @@ public class maxProfitIV {
     //     dp[i][k][0]=max(dp[i-1][k][0],dp[i-1][k][1]+prices[i])
     //     dp[i][k][1]=max(dp[i-1][k][1],dp[i-1][k-1][0]-prices[i])
     public int maxProfit(int k, int[] prices) {
+        if (prices.length == 0){
+            return 0;
+        }
         int n = prices.length;
 
         // dp[i][j][0]表示第i+1天截止时，当最多进行了j次交易，并且手上没有股票时的最大利润
@@ -44,7 +47,7 @@ public class maxProfitIV {
             dp[i][0][0] = 0;
         }
 
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i <= k; i++) {
             dp[0][i][0] = 0;
             dp[0][i][1] = -prices[0];
         }
