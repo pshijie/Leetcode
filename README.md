@@ -174,6 +174,7 @@
 |剑指offer-46| [把数字翻译成字符串]( https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [translateNum.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/translateNum.java) |
 | 208  | [实现Trie(前缀树)]( https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [Trie.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/Trie.java) |
 |剑指offer-04| [二维数组中的查找]( https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [findNumberIn2DArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findNumberIn2DArray.java) |
+| 328  | [奇偶链表]( https://leetcode-cn.com/problems/odd-even-linked-list/) | [oddEvenList.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/oddEvenList.java) |
 
 
 
