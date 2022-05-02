@@ -45,6 +45,7 @@
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [singleNumber.java](https://github.com/pshijie/Leetcode/blob/main/other/src/singleNumber.java) |
 | 125  | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [isPalindromeString.java](https://github.com/pshijie/Leetcode/blob/main/String/src/isPalindromeString.java) |
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [validPalindrome.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/validPalindrome.java) |
+| 977  | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [sortedSquares.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortedSquares.java) |
 
 
 
