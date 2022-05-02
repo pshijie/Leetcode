@@ -68,6 +68,7 @@ public class largestRectangleArea {
             // 当前元素的索引入栈
             stack.push(i);
         }
+
         return result;
     }
 }
