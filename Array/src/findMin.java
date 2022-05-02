@@ -21,7 +21,7 @@ public class findMin {
                 left = mid + 1;
             // 如旋转后的数组为:5 6 7 8 9,此时nums[mid]=7<nums[right]=9
             // 或者数组为:7 8 0 1 2 5 6
-            // 则最小值在左半区域(这里不是mid-1是因为)
+            // 则最小值在左半区域(这里不是mid-1是因为while循环的条件是小于不是小于等于)
             }else if (nums[mid] < nums[right]){
                 right = mid;
             }
