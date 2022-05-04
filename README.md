@@ -180,6 +180,7 @@
 |剑指offer-04| [二维数组中的查找]( https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [findNumberIn2DArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findNumberIn2DArray.java) |
 | 328  | [奇偶链表]( https://leetcode-cn.com/problems/odd-even-linked-list/) | [oddEvenList.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/oddEvenList.java) |
 |剑指Offer-45| [把数组排成最小的数]( https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [minNumber.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/minNumber.java) |
+|  86  | [分隔链表]( https://leetcode-cn.com/problems/partition-list/) | [partition.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/partition.java) |
 
 
 
