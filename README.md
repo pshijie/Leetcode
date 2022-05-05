@@ -47,6 +47,7 @@
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [validPalindrome.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/validPalindrome.java) |
 | 977  | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [sortedSquares.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortedSquares.java) |
 | 191  | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [hammingWeight.java](https://github.com/pshijie/Leetcode/blob/main/other/src/hammingWeight.java) |
+| 459  | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [repeatedSubstringPattern.java](https://github.com/pshijie/Leetcode/blob/main/String/src/repeatedSubstringPattern.java) |
 
 
 
