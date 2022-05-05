@@ -70,7 +70,7 @@ public class strStr_KMP {
     //          }
     //          // 当pat[i]=pat[j]时,因为j不止表示为前缀末尾的位置，也表示为最长相等前后缀的长度
     //          if (needle.charAt(j) == needle.charAt(i)) {
-    //                left++;
+    //                j++;
     //          }
     //          next[i] = j;  // 这里将j理解为最长相等前后缀的长度
     //      }
