@@ -41,13 +41,14 @@
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [removeDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/BFS_DFS/src/removeDuplicates.java) |
 |剑指offer-54| [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [kthLargest.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/kthLargest.java) |
 | 572  | [另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [isSubtree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isSubtree.java) |
-| 剑指Offer-61| [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [isStraight.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/isStraight.java) |
+|剑指Offer-61| [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [isStraight.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/isStraight.java) |
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [singleNumber.java](https://github.com/pshijie/Leetcode/blob/main/other/src/singleNumber.java) |
 | 125  | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [isPalindromeString.java](https://github.com/pshijie/Leetcode/blob/main/String/src/isPalindromeString.java) |
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [validPalindrome.java](https://github.com/pshijie/Leetcode/blob/main/Greedy/src/validPalindrome.java) |
 | 977  | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [sortedSquares.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/sortedSquares.java) |
 | 191  | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [hammingWeight.java](https://github.com/pshijie/Leetcode/blob/main/other/src/hammingWeight.java) |
 | 459  | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [repeatedSubstringPattern.java](https://github.com/pshijie/Leetcode/blob/main/String/src/repeatedSubstringPattern.java) |
+|剑指Offer-39| [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [majorityElement.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/majorityElement.java) |
 
 
 
