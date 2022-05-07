@@ -186,6 +186,7 @@
 |  86  | [分隔链表]( https://leetcode-cn.com/problems/partition-list/) | [partition.java](https://github.com/pshijie/Leetcode/blob/main/LinkedList/src/partition.java) |
 | 400  | [第N位数字]( https://leetcode-cn.com/problems/nth-digit/) | [findNthDigit.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findNthDigit.java) |
 | 210  | [课程表II]( https://leetcode-cn.com/problems/course-schedule-ii/) | [findOrder.java](https://github.com/pshijie/Leetcode/blob/main/Graph/src/findOrder.java) |
+| 442  | [数组中重复的数据]( https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [findDuplicates.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findDuplicates.java) |
 
 
 
