@@ -50,6 +50,7 @@
 | 459  | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [repeatedSubstringPattern.java](https://github.com/pshijie/Leetcode/blob/main/String/src/repeatedSubstringPattern.java) |
 |剑指Offer-39| [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [majorityElement.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/majorityElement.java) |
 | 100  | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [isSameTree.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/isSameTree.java) |
+|剑指Offer-11| [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [minArray.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/minArray.java) |
 
 
 
