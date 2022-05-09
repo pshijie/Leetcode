@@ -3,13 +3,13 @@ import java.util.Arrays;
 /**
  * @author psj
  * @date 2022/4/18 9:44
- * @File: nextGreaterElement.java
+ * @File: nextGreaterElementIII.java
  * @Software: IntelliJ IDEA
  */
 // https://leetcode-cn.com/problems/next-greater-element-iii/
 // 给你一个正整数n ，请你找出符合条件的最小整数，其由重新排列n中存在的每位数字组成，并且其值大于n。如果不存在这样的正整数，则返回-1
 
-public class nextGreaterElement {
+public class nextGreaterElementIII {
     // 核心思想:一个降序排列的数字num一定找不到大于它的数字，比如4321
     // 1.需要从右向左遍历(因为需要保证最小，所以肯定是交换位数越小的两个数越好)
     // 2.找到第一个不符合降序的数num，比如4132431，从右向左遍历第一个不符合的数为2
