@@ -12,7 +12,7 @@ import java.util.Stack;
 // 对于每个 0 <= i < nums1.length ，找出满足 nums1[i] == nums2[j] 的下标 j ，并且在 nums2 确定 nums2[j] 的 下一个更大元素 。
 // 如果不存在下一个更大元素，那么本次查询的答案是 -1
 
-public class nextGreaterElementI {
+public class nextGreaterElementsI {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int[] result = new int[nums1.length];
         Stack<Integer> stack = new Stack<>();
