@@ -54,6 +54,7 @@
 |剑指Offer-32| [从上到下打印二叉树III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [levelOrder.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/levelOrder.java) |
 | 496  | [下一个更大元素I](https://leetcode.cn/problems/next-greater-element-i/) | [nextGreaterElementsI.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/nextGreaterElementsI.java) |
 | 557  | [反转字符串中的单词III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/) | [reverseWords.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/reverseWords.java) |
+| 268  | [丢失的数字](https://leetcode.cn/problems/missing-number/) | [missingNumber.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/missingNumber.java) |
 
 
 
