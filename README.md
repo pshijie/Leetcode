@@ -196,6 +196,7 @@
 |  63  | [不同路径II]( https://leetcode-cn.com/problems/unique-paths-ii/) | [uniquePathsWithObstacles.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/uniquePathsWithObstacles.java) |
 | 503  | [下一个更大元素II]( https://leetcode.cn/problems/next-greater-element-ii/) | [nextGreaterElementsII.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/nextGreaterElementsII.java) |
 |  97  | [交错字符串]( https://leetcode.cn/problems/interleaving-string/) | [isInterleave.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/isInterleave.java) |
+| 264  | [丑数Ⅱ]( https://leetcode.cn/problems/ugly-number-ii/) | [nthUglyNumber.java](https://github.com/pshijie/Leetcode/blob/main/other/src/nthUglyNumber.java) |
 
 
 
