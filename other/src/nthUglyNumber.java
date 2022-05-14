@@ -39,5 +39,6 @@ public class nthUglyNumber {
             }
         }
         return -1;
+
     }
 }
