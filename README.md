@@ -233,6 +233,7 @@
 | 295  | [数据流的中位数]( https://leetcode-cn.com/problems/find-median-from-data-stream/) | [MedianFinder.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MedianFinder.java) |
 |  84  | [柱状图中最大的矩形]( https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [largestRectangleArea.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/largestRectangleArea.java) |
 |  44  | [通配符匹配]( https://leetcode.cn/problems/wildcard-matching/) | [wildcardMatch.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/wildcardMatch.java) |
+| 115  | [不同的子序列]( https://leetcode.cn/problems/distinct-subsequences/) | [numDistinct.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/numDistinct.java) |
 
 
 ## 补充题
