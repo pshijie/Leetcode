@@ -56,6 +56,7 @@
 | 557  | [反转字符串中的单词III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/) | [reverseWords.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/reverseWords.java) |
 | 268  | [丢失的数字](https://leetcode.cn/problems/missing-number/) | [missingNumber.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/missingNumber.java) |
 | 167  | [两数之和II](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | [twoSum.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/twoSum.java) |
+| 674  | [最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | [findLengthOfLCIS.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findLengthOfLCIS.java) |
 
 
 
