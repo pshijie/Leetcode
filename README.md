@@ -204,6 +204,7 @@
 |  17  | [电话号码的字母组合]( https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | [letterCombinations.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/letterCombinations.java) |
 | 525  | [连续数组]( https://leetcode.cn/problems/contiguous-array/) | [findMaxLength.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/findMaxLength.java) |
 | 378  | [有序矩阵中第K小的元素]( https://leetcode.cn/problems/kth-smallest-element-in-a-sorted-matrix/) | [kthSmallest.java](https://github.com/pshijie/Leetcode/blob/main/Array/src/kthSmallestMatrix.java) |
+|剑指Offer-31| [栈的压入弹出序列]( https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [validateStackSequences.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/validateStackSequences.java) |
 
 
 
