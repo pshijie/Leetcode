@@ -48,5 +48,6 @@ public class fractionToDecimal {
             }
         }
         return sb.toString();
+
     }
 }
