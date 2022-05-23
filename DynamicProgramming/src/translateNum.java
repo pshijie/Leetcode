@@ -12,7 +12,7 @@ public class translateNum {
     // 动态规划
     public int translateNum(int num) {
         String s = String.valueOf(num);
-        // dp[i]表示以num[i]结尾的数字可以被翻译的数量
+        // dp[i]表示以num[i-1]结尾的数字可以被翻译的数量
         int[] dp = new int[s.length() + 1];
         dp[1] = 1;
         // dp[0]无数字，根据dp[2]-dp[1]=1求得(假设前两个数组成的temp属于[10,25]，即使不属于也不会影响结果，进入else后dp[2]=1)
