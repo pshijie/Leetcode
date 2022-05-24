@@ -58,7 +58,7 @@ public class countNodes {
         }
 
         while (r != null){
-            r = r.left;
+            r = r.left;  // 右子树的也是需要一直往左走，才能计算出右子树的最大深度
             hr ++;
         }
 
