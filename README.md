@@ -209,6 +209,7 @@
 | 107  | [二叉树的层序遍历II]( https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/) | [levelOrderBottom.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/levelOrderBottom.java) |
 | 166  | [小数到分数]( https://leetcode.cn/problems/fraction-to-recurring-decimal/) | [fractionToDecimal.java](https://github.com/pshijie/Leetcode/blob/main/other/src/fractionToDecimal.java) |
 |   6  | [Z字形变换]( https://leetcode.cn/problems/zigzag-conversion/) | [convert.java](https://github.com/pshijie/Leetcode/blob/main/String/src/convert.java) |
+| 622  | [设计循环队列]( https://leetcode.cn/problems/design-circular-queue/) | [MyCircularQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyCircularQueue.java) |
 
 
 
