@@ -211,6 +211,7 @@
 | 166  | [小数到分数]( https://leetcode.cn/problems/fraction-to-recurring-decimal/) | [fractionToDecimal.java](https://github.com/pshijie/Leetcode/blob/main/other/src/fractionToDecimal.java) |
 |   6  | [Z字形变换]( https://leetcode.cn/problems/zigzag-conversion/) | [convert.java](https://github.com/pshijie/Leetcode/blob/main/String/src/convert.java) |
 | 622  | [设计循环队列]( https://leetcode.cn/problems/design-circular-queue/) | [MyCircularQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyCircularQueue.java) |
+| 343  | [整数拆分]( https://leetcode.cn/problems/integer-break/) | [integerBreak.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/integerBreak.java) |
 
 
 
