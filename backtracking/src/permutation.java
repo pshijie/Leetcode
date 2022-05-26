@@ -48,5 +48,6 @@ public class permutation {
             visited[i] = false;
             tmp.deleteCharAt(tmp.length() - 1);
         }
+
     }
 }
