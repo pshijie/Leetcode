@@ -213,6 +213,7 @@
 | 622  | [设计循环队列]( https://leetcode.cn/problems/design-circular-queue/) | [MyCircularQueue.java](https://github.com/pshijie/Leetcode/blob/main/StackQueue/src/MyCircularQueue.java) |
 | 343  | [整数拆分]( https://leetcode.cn/problems/integer-break/) | [integerBreak.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/integerBreak.java) |
 | 437  | [路径总和III]( https://leetcode.cn/problems/path-sum-iii/) | [pathSumIII.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/pathSumIII.java) |
+|剑指offer-38| [字符串的排列]( https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/) | [permutation.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/permutation.java) |
 
 
 
