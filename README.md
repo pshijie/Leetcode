@@ -59,6 +59,7 @@
 | 674  | [最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | [findLengthOfLCIS.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/findLengthOfLCIS.java) |
 | 108  | [将有序数组转换为二叉搜索树](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) | [findLengthOfLCIS.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/sortedArrayToBST.java) |
 | 171  | [Excel表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) | [titleToNumber.java](https://github.com/pshijie/Leetcode/blob/main/other/src/titleToNumber.java) |
+| 257  | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | [binaryTreePaths.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/binaryTreePaths.java) |
 
 
 
