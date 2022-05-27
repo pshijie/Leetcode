@@ -214,6 +214,7 @@
 | 343  | [整数拆分]( https://leetcode.cn/problems/integer-break/) | [integerBreak.java](https://github.com/pshijie/Leetcode/blob/main/DynamicProgramming/src/integerBreak.java) |
 | 437  | [路径总和III]( https://leetcode.cn/problems/path-sum-iii/) | [pathSumIII.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/pathSumIII.java) |
 |剑指offer-38| [字符串的排列]( https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/) | [permutation.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/permutation.java) |
+| 172  | [阶乘后的零]( https://leetcode.cn/problems/factorial-trailing-zeroes/) | [trailingZeroes.java](https://github.com/pshijie/Leetcode/blob/main/other/src/trailingZeroes.java) |
 
 
 
