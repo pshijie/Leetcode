@@ -216,6 +216,7 @@
 | 437  | [路径总和III]( https://leetcode.cn/problems/path-sum-iii/) | [pathSumIII.java](https://github.com/pshijie/Leetcode/blob/main/BinaryTree/src/pathSumIII.java) |
 |剑指offer-38| [字符串的排列]( https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/) | [permutation.java](https://github.com/pshijie/Leetcode/blob/main/backtracking/src/permutation.java) |
 | 172  | [阶乘后的零]( https://leetcode.cn/problems/factorial-trailing-zeroes/) | [trailingZeroes.java](https://github.com/pshijie/Leetcode/blob/main/other/src/trailingZeroes.java) |
+| 395  | [至少有K个重复字符的最长子串]( https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/) | [longestSubstring.java](https://github.com/pshijie/Leetcode/blob/main/String/src/longestSubstring.java) |
 
 
 
